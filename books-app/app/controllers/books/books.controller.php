@@ -9,7 +9,7 @@ class BooksController extends Controller {
 	}
 
 	public function get_available() {
-
+/*
 		// Our model
 		$books = new Books();
 
@@ -21,7 +21,7 @@ class BooksController extends Controller {
 
 		$view->add("available_books", $items);
 
-		$this->out($view);
+		$this->out($view);*/
 	}
 
 	public function like_book() {
