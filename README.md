@@ -16,7 +16,7 @@ Usage example
 Let's we have some mobile or desktop application that works with books and all of information stored on remote server.<br />
 We put this API Framework on server and after that our application may work with it over HTTP.
 
-1. Let's say that our app is needed to get list all of available books.To make this possible the client's app have to make a request:
+Let's say that our app is needed to get list all of available books.To make this possible the client's app have to make a request:
 
 ```
 http://api.<servername>/books.get_available
@@ -33,7 +33,7 @@ Say, we'd like to use JSON:
 ]}
 ```
 
-2. What if we need to send or to update some information on server? To make this - we need to make a POST request like this one:
+What if we need to send or to update some information on server? To make this - we need to make a POST request like this one:
 
 ```php
 http://api.<servername>/books.like_book
