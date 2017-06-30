@@ -3,10 +3,6 @@
 /*
  * 	This file sets mainly constact values of pathes.
  * 	You do not need edit it.
- * 
- *  @author Androschuk Andriy <androschuk.andriy@gmail.com> 
- * 	@copyright 2013 (c) Androschuk Andriy
- *
  *  @version 0.1
  */
 
