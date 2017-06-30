@@ -3,10 +3,6 @@
 /**
  * 	This file makes include all of kernel files that is need to run the application.
  * 	You do not need edit it, but just include it in your index file.
- * 
- *  @author Androschuk Andriy <androschuk.andriy@gmail.com> 
- * 	@copyright 2013 (c) Androschuk Andriy
- *
  *  @version 0.1
  */
 
