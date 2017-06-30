@@ -15,10 +15,6 @@
  *	Connection(name, host, user_name, user_password, database_name);
  *	Connection(name, host, user_name, user_password, database_name, character_set);
  * 
- * 
- *  @author Androschuk Andriy <androschuk.andriy@gmail.com> 
- * 	@copyright 2013 (c) Androschuk Andriy
- *
  *  @version 0.1
  */
  
